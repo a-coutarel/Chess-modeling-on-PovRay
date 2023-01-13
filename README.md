@@ -1,7 +1,6 @@
 # Chess modeling on PovRay
 
-University project
-Goal : modeling a chess game on PovRay, a ray tracing software.
+University project : modeling a chess game on PovRay, a ray tracing software.
 
 ## Render 
 
